@@ -39,6 +39,9 @@ The main goal was to try and replicate the analysis done from the [Modeling Diab
 
 Initial summary through an OLS Regression Results:
 
+![summary](./files_figures/BIC_criterion.png)
+
+![bicgrph](./files_figures/olsregressionresults.png)
 
 Following the results from the 3 models tested.
 
