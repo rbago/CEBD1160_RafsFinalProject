@@ -12,8 +12,8 @@ Your repository should include the following:
 
 - Python script for your analysis: `diabetes.py`
 - Results figure/saved file `files_figures/`
-- Dockerfile for your experiment: `Dockerfile`
-- runtime-instructions in a file named RUNME.md
+- Dockerfile for your experiment: `Dockerfile` `to be added`
+- runtime-instructions in a file named RUNME.md `to be added`
 
 -----
 
